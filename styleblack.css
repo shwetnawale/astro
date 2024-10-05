@@ -1,0 +1,26 @@
+{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    }
+    .main_page{
+        background-image: url(https://svs.gsfc.nasa.gov/vis/a010000/a014100/a014146/BH_accretion_disk_viz_desktop.png);
+        height: 100vh;
+        background-size: cover;
+        width: 100%;
+        display: flex;
+        /* justify-content: space-around; */
+        
+    
+    }
+    .main_head{
+        width: 30%;
+    }
+    .main_name{
+        color: white;
+        margin-top: 60vh;
+        margin-left: 15%;
+        font-size: 70px;
+    }
+    
+    
